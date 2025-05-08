@@ -3,7 +3,7 @@
 This project features the entire HR life cycle of a fictional private healthcare facility. It includes
 topics such as recruiting strategies, onboarding, employee retention and offboarding. The
 goal was to create an efficient and practical framework by combining aspects of work and
-organizational psychology with technical tools like ClickUp, Excel and Google Sheets.
+organizational psychology with technical tools like ClickUp, Excel and Google Sheets. The PDF can be found [here](https://github.com/lea-schreiner/HR-Life-Cycle/blob/main/HR%20Life%20Cycle%20Project.pdf)
 
 ## Key Features
 ### Strategic HR Plan
